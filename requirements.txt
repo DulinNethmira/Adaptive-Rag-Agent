@@ -1,0 +1,15 @@
+langchain-community
+langchain-core
+langchain-openai
+langchain-google-genai
+requests
+python-dotenv
+fastapi
+uvicorn
+pydantic
+starlette
+sentence-transformers
+langchain
+langchain-ollama
+langchain_tavily
+langchain_text_splitters
